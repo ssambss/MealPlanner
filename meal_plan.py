@@ -1,6 +1,13 @@
 class MealPlan:
-    def __init__(self):
-        self.recipes = []
+
+    """
+    
+    A base class for meal plan objects.
+    
+    """
+    
+    def __init__(self, recipes=[]):
+        self.recipes = recipes
 
     def add_recipe(self, recipe):
         self.recipes.append(recipe)

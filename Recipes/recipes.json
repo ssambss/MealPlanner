@@ -1,0 +1,419 @@
+{
+    "recipes" : [
+        {
+            "name" : "Kinkkukiusaus",
+            "ingredients" : [
+                "peruna-sipulisekoitus",
+                "kinkku/vege",
+                "kerma",
+                "punajuurisalaatti"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Kaalilaatikko",
+            "ingredients" : [
+                "kaali",
+                "jauheliha/vege",
+                "riisi",
+                "sipuli",
+                "maito",
+                "kananmuna"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Kanakastike ja riisi",
+            "ingredients" : [
+                "kanasuikale",
+                "kerma",
+                "riisi"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Uunijuurekset ja kana",
+            "ingredients" : [
+                "kanan paistileike",
+                "porkkana",
+                "peruna",
+                "punajuuri"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Kalaa, perunaa ja kermaviilikastike",
+            "ingredients" : [
+                "kalafilee/kalapuikot",
+                "peruna",
+                "kermaviili",
+                "tilli"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Ruistonnikalaleivät",
+            "ingredients" : [
+                "ruispuikulat",
+                "tonnikala vedessä (2)",
+                "juustoraaste",
+                "ketsuppi",
+                "oregano"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Makaronilaatikko",
+            "ingredients" : [
+                "jauheliha/vege",
+                "makaroni",
+                "maito",
+                "kananmuna"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4            
+        },
+        {
+            "name" : "Uunifetapasta",
+            "ingredients" : [
+                "fetajuusto",
+                "pasta",
+                "kirsikkatomaatti",
+                "valkosipuli",
+                "oliiviöljy"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Pizza",
+            "ingredients" : [
+                "pizzapohja",
+                "tomaattikastike",
+                "juustoraaste",
+                "kinkku",
+                "ananas"
+            ],
+            "effort" : 3,
+            "tags" : ["viikonloppu"],
+            "servings" : 2
+        },
+        {
+            "name" : "Tortilla",
+            "ingredients" : [
+                "tortillat",
+                "jauheliha/kana/vegan",
+                "tacomauste",
+                "guacamole",
+                "salsa",
+                "creme fraiche",
+                "kurkku",
+                "paprika",
+                "tomaatti",
+                "salaatti"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Greek wraps",
+            "ingredients" : [
+                "tortillat",
+                "kana",
+                "fetajuusto",
+                "tzatsiki",
+                "salaatti",
+                "kurkku",
+                "punasipuli",
+                "tomaatti"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Gochujang-kana",
+            "ingredients" : [
+                "kanan fileesuikale",
+                "gochujang",
+                "soijakastike",
+                "hunaja",
+                "valkosipuli",
+                "riisi"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Curry ja riisi",
+            "ingredients" : [
+                "kanan fileesuikale",
+                "currytahna",
+                "kookosmaito",
+                "riisi"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Pasta tomaattikastikkeella",
+            "ingredients" : [
+                "pasta",
+                "tomaattikastike",
+                "kana/tonnikala"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Sriracha-kana",
+            "ingredients" : [
+                "kanan fileesuikale",
+                "sriracha",
+                "soijakastike",
+                "hunaja",
+                "valkosipuli",
+                "riisi"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Tonnikalapastavuoka",
+            "ingredients" : [
+                "pasta",
+                "tonnikala vedessä (2)",
+                "tomaattikastike"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Peruna/bataattilohkot ja kana",
+            "ingredients" : [
+                "kanan paistileike",
+                "peruna/bataatti",
+                "oliiviöljy"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Kung Pao kana",
+            "ingredients" : [
+                "kanan fileesuikale",
+                "soijakastike",
+                "hunaja",
+                "valkosipuli",
+                "paprika",
+                "cashewpähkinä",
+                "riisi"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Pad thai",
+            "ingredients" : [
+                "kanan fileesuikale/tofu",
+                "riisinuudeli",
+                "lime",
+                "porkkana",
+                "soijakastike",
+                "hunaja",
+                "kananmuna",
+                "pähkinä"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Uunilohi",
+            "ingredients" : [
+                "lohi",
+                "sitruuna",
+                "tilli",
+                "peruna"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Pestopasta",
+            "ingredients" : [
+                "pasta",
+                "pesto",
+                "kana"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Avokadopasta",
+            "ingredients" : [
+                "pasta",
+                "avokado",
+                "valkosipuli",
+                "sitruuna",
+                "oliiviöljy",
+                "kirsikkatomaatti"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Quesadilla",
+            "ingredients" : [
+                "tortillat",
+                "juustoraaste",
+                "kana/jauheliha/vege",
+                "salsa",
+                "creme fraiche",
+                "paprika",
+                "tomaatti",
+                "salaatti"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Kasvissosekeitto",
+            "ingredients" : [
+                "porkkana",
+                "peruna",
+                "bataatti",
+                "sipuli",
+                "kasvisliemikuutio",
+                "kerma"
+            ],
+            "effort" : 3,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Tomaattikeitto + grilled cheese",
+            "ingredients" : [
+                "tomaatti",
+                "sipuli",
+                "valkosipuli",
+                "kasvisliemikuutio",
+                "kerma",
+                "leipä",
+                "juustoraaste"
+            ],
+            "effort" : 5,
+            "tags" : ["viikonloppu"],
+            "servings" : 4
+        },
+        {
+            "name" : "Hernekeitto",
+            "ingredients" : [
+                "hernekeittosäilyke (2)",
+                "sipuli"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Miso noodles",
+            "ingredients" : [
+                "nuudeli",
+                "miso"
+            ],
+            "effort" : 1,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Shredded tofu BBQ",
+            "ingredients" : [
+                "tofu",
+                "bbq-kastike",
+                "burgersämpylät"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Lasagnette",
+            "ingredients" : [
+                "jauheliha/vege",
+                "lasagnettepaketti",
+                "maito",
+                "juustoraaste"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 4
+        },
+        {
+            "name" : "Riisi bowl tonnikalalla + majo ja sriracha",
+            "ingredients" : [
+                "riisi",
+                "tonnikala vedessä (2)",
+                "majoneesi",
+                "sriracha",
+                "nori",
+                "kurkku"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        },
+        {
+            "name" : "Kotzone",
+            "ingredients" : [
+                "pizzapohja",
+                "tomaattikastike",
+                "juustoraaste",
+                "kinkku",
+                "ananas"
+            ],
+            "effort" : 3,
+            "tags" : ["viikonloppu"],
+            "servings" : 2
+        },
+        {
+            "name" : "Gnocchi, kana ja tomaattikastike",
+            "ingredients" : [
+                "gnocchi",
+                "tomaattisose",
+                "feta",
+                "kanan fileesuikale",
+                "kirsikkatomaatti"
+            ],
+            "effort" : 2,
+            "tags" : ["arki"],
+            "servings" : 2
+        }
+    ]
+}

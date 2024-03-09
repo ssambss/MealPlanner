@@ -1,8 +1,17 @@
 class Recipe:
-    def __init__(self, name, ingredients, type):
+
+    """
+    
+    A base class for recipe objects.
+    
+    """
+
+    def __init__(self, name, ingredients, effort, servings, tags=[]):
         self.name = name
         self.ingredients = ingredients
-        self.type = type
+        self.effort = effort
+        self.tags = tags
+        self.servings = servings
 
     
     def add_ingredient(self, ingredient):
@@ -14,11 +23,11 @@ class Recipe:
     def delete_ingredient(self, ingredient):
         self.ingredients.remove(ingredient)
 
-    def update_type(self, type):
-        self.type = type
+    def update_effort(self, effort):
+        self.effort = effort
 
-    def get_type(self):
-        return self.type
+    def get_effort(self):
+        return self.effort
 
     def update_name(self, name):
         self.name = name
@@ -26,7 +35,21 @@ class Recipe:
     def get_name(self):
         return self.name
     
+    def update_tags(self, tags):
+        self.tags = tags
 
+    def get_tags(self):
+        return self.tags
+    
+    def delete_tags(self, tag):
+        self.tags.remove(tag)
+
+    def update_servings(self, servings):
+        self.servings = servings
+
+    def get_servings(self):
+        return self.servings
+    
 
 
     
